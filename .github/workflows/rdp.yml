@@ -1,4 +1,4 @@
-name: Create VPS (Auto Restart)
+name: Create VPS
 
 on:
   workflow_dispatch:
