@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://extend-ease-reasoning-should.trycloudflare.com/vnc.html
+URL       : https://pipe-pendant-templates-trim.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 09:42:46
+Created   : 2026-10-15 12:42:43
 =======================================================
