@@ -1,4 +1,4 @@
-name: Create VPS
+name: Create VPS Free
 
 on:
   workflow_dispatch:
