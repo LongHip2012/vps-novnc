@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sensors-nick-amp-api.trycloudflare.com/vnc.html
+URL       : https://literacy-girlfriend-training-hansen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 22:42:51
+Created   : 2026-10-17 03:38:38
 =======================================================
