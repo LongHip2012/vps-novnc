@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://illustration-skill-structure-standards.trycloudflare.com/vnc.html
+URL       : https://syntax-yukon-goto-texas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 04:01:48
+Created   : 2026-10-20 09:53:24
 =======================================================
