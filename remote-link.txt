@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://professor-duration-phrases-corpus.trycloudflare.com/vnc.html
+URL       : https://livecam-naval-previously-favourite.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 03:49:31
+Created   : 2026-10-25 09:39:58
 =======================================================
