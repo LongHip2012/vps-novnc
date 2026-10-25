@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://livecam-naval-previously-favourite.trycloudflare.com/vnc.html
+URL       : https://eventually-corners-award-highlight.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 09:39:58
+Created   : 2026-10-25 14:12:57
 =======================================================
